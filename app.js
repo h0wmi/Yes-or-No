@@ -12,5 +12,5 @@ function moveHover(){
    b.style.top=j+"px"
 }
 a.addEventListener("click", ()=>{
-ques.innerHTML = "SHEEEESH ANG ANGAS MO ATE"
+ques.innerHTML = "THANK U! :>"
 })
